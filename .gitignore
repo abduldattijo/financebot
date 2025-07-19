@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Flask
+instance/
+.webassets-cache
+
+# PyCharm
+.idea/
+
+# Output files
+output/
+*.xlsx
+*.xls
+*.ods
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
